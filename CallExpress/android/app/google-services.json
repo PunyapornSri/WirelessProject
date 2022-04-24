@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "753825437228",
+    "project_id": "mycallexpress",
+    "storage_bucket": "mycallexpress.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753825437228:android:8c8c1352c4976363182389",
+        "android_client_info": {
+          "package_name": "com.example.call_express"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753825437228-tdflhmf1981cutdfjg17cvuppulsej6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.call_express",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "753825437228-d6113p8ic2qhbbpfp3biria2of0jvdmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8w2MR_yKO95S4Mg9fPO1VKHXm4s5K0d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753825437228-d6113p8ic2qhbbpfp3biria2of0jvdmu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753825437228-9ondb1bi3994jdho4n7c03tr1van1h29.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.callexpress"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753825437228:android:357cb1decc4b752b182389",
+        "android_client_info": {
+          "package_name": "com.flutterflow.callexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753825437228-aeckoacmn5grg8s0cunbqnvft2esuprs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.callexpress",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "753825437228-d6113p8ic2qhbbpfp3biria2of0jvdmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8w2MR_yKO95S4Mg9fPO1VKHXm4s5K0d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753825437228-d6113p8ic2qhbbpfp3biria2of0jvdmu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753825437228-9ondb1bi3994jdho4n7c03tr1van1h29.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.callexpress"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
